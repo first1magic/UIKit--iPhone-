@@ -1,0 +1,63 @@
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "0x7-Pt-o2I"; */
+"0x7-Pt-o2I.title" = "Login";
+
+/* Class = "UITextField"; placeholder = "パスワード（確認）"; ObjectID = "6al-Cr-aJ2"; */
+"6al-Cr-aJ2.placeholder" = "パスワード（確認）";
+
+/* Class = "UIButton"; normalTitle = "新規会員登録（無料）はこちら"; ObjectID = "7W9-xL-Oax"; */
+"7W9-xL-Oax.normalTitle" = "新規会員登録（無料）はこちら";
+
+/* Class = "UITextField"; placeholder = "メールアドレス"; ObjectID = "8tV-ia-lqq"; */
+"8tV-ia-lqq.placeholder" = "メールアドレス";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "98s-nU-BmB"; */
+"98s-nU-BmB.title" = " ";
+
+/* Class = "UIViewController"; title = "新規会員登録"; ObjectID = "EFE-w6-0DO"; */
+"EFE-w6-0DO.title" = "新規会員登録";
+
+/* Class = "UILabel"; text = "誕生日"; ObjectID = "FgC-PN-fKS"; */
+"FgC-PN-fKS.text" = "生年月日";
+
+/* Class = "UIButton"; normalTitle = "タップして選択"; ObjectID = "GvX-jn-jpV"; */
+"GvX-jn-jpV.normalTitle" = "タップして選択";
+
+/* Class = "UILabel"; text = "性別"; ObjectID = "I06-cX-ZLt"; */
+"I06-cX-ZLt.text" = "性別";
+
+/* Class = "UINavigationItem"; title = "ログイン"; ObjectID = "O82-8w-SGC"; */
+"O82-8w-SGC.title" = "ログイン";
+
+/* Class = "UINavigationItem"; title = "新規会員登録"; ObjectID = "aJw-DN-Ce9"; */
+"aJw-DN-Ce9.title" = "新規会員登録";
+
+/* Class = "UITextField"; placeholder = "名"; ObjectID = "ffu-6f-hNc"; */
+"ffu-6f-hNc.placeholder" = "名";
+
+/* Class = "UITextField"; placeholder = "メールアドレス"; ObjectID = "lPT-1V-mfL"; */
+"lPT-1V-mfL.placeholder" = "メールアドレス";
+
+/* Class = "UIButton"; normalTitle = "タップして選択"; ObjectID = "nAj-q4-3WH"; */
+"nAj-q4-3WH.normalTitle" = "タップして選択";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "nF9-gi-68H"; */
+"nF9-gi-68H.normalTitle" = "ログイン";
+
+/* Class = "UITextField"; placeholder = "パスワード"; ObjectID = "pfi-Fz-CHd"; */
+"pfi-Fz-CHd.placeholder" = "パスワード";
+
+/* Class = "UITextField"; placeholder = "姓"; ObjectID = "sn1-jJ-TLD"; */
+"sn1-jJ-TLD.placeholder" = "姓";
+
+/* Class = "UIButton"; normalTitle = "LINEログイン"; ObjectID = "xQg-17-3bU"; */
+"xQg-17-3bU.normalTitle" = "LINEログイン";
+
+/* Class = "UIButton"; normalTitle = "次へ"; ObjectID = "y9I-RP-dRi"; */
+"y9I-RP-dRi.normalTitle" = "次へ";
+
+/* Class = "UITextField"; placeholder = "パスワード"; ObjectID = "zZi-Vb-seB"; */
+"zZi-Vb-seB.placeholder" = "パスワード";
+
+"4OK-53-M6a.segmentTitles[0]" = "男性";
+"4OK-53-M6a.segmentTitles[1]" = "女性";
